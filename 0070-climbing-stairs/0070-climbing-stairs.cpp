@@ -3,28 +3,17 @@ public:
     int climbStairs(int n) 
     {
         vector<int>dp(n+1,-1);
+        dp[0]=dp[1]=1;
 
-        return func(n,dp);
+        for(int i=2;i<=n;i++)
+        {
+            int c1=dp[i-1];
+            int c2=dp[i-2];
+
+            dp[i]=c1+c2;
+        }
+
+        return dp[n];
         
-    }
-
-    int func(int n,vector<int>&dp)
-    {
-        if(!n || n==1)
-        {
-            return 1;
-        }
-
-        if(dp[n]!=-1)
-        {
-            return dp[n];
-        }
-
-        // choices
-        int c1=func(n-1,dp);
-        int c2=func(n-2,dp);
-
-        // result on the basis of those choices 
-        return dp[n]=c1+c2;
     }
 };
