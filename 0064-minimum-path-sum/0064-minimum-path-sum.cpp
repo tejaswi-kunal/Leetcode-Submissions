@@ -14,8 +14,34 @@ public:
 
         vector<vector<int>>dp(n,vector<int>(m,-1));
 
-        // now decalre what your function does ->this function will return me the path with min sum (i,j)-->(0,0)
-        return func(n-1,m-1,grid,dp);
+        // for tabulation first we have to declare the base case 
+        dp[0][0]=grid[0][0];
+
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
+            {
+                if(!i && !j)
+                {
+                    continue;
+                }
+
+                int c1=1e8,c2=1e8;
+                if(valid(i-1,j))
+                {
+                    c1=dp[i-1][j];
+                }
+
+                if(valid(i,j-1))
+                {
+                    c2=dp[i][j-1];
+                }
+
+                dp[i][j]=min(c1,c2)+grid[i][j];
+            }
+        }
+
+        return dp[n-1][m-1];
         
     }
 
