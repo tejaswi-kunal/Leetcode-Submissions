@@ -13,10 +13,35 @@ public:
 
         vector<vector<int>>dp(n,vector<int>(m,-1));
 
-        // now we have to declare this function->this function will return the number of ways we can go from 
-        // index i,j--->0,0
+        // for tabulation we first have to decalre the base case
+        dp[0][0]=1;
 
-        return func(n-1,m-1,dp);
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
+            {
+                if(!i && !j)
+                {
+                    continue;
+                }
+
+                // choices
+                int c1=0,c2=0;
+                if(valid(i-1,j))
+                {
+                    c1=dp[i-1][j];
+                }
+
+                if(valid(i,j-1))
+                {
+                    c2=dp[i][j-1];
+                }
+
+                dp[i][j]=c1+c2;
+            }
+        }
+
+        return dp[n-1][m-1];
         
     }
 
