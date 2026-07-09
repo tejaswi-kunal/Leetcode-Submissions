@@ -6,30 +6,22 @@ public:
 
         vector<int>dp(n,-1);
 
-        return func(n-1,nums,dp);
+        // base case intialization
+        dp[0]=nums[0];
         
-    }
-
-    int func(int i,vector<int>&nums,vector<int>&dp)
-    {
-        if(!i)
+        if(n>=2)
         {
-            return nums[0];
+            dp[1]=max(nums[0],nums[1]);
         }
 
-        else if(i==1)
+        for(int i=2;i<n;i++)
         {
-            return max(nums[1],nums[0]);
+            int c1=nums[i]+dp[i-2];
+            int c2=dp[i-1];
+
+            dp[i]=max(c1,c2);
         }
 
-        if(dp[i]!=-1)
-        {
-            return dp[i];
-        }
-
-        int c1=nums[i]+func(i-2,nums,dp);
-        int c2=func(i-1,nums,dp);
-
-        return dp[i]=max(c1,c2);
+        return dp[n-1];
     }
 };
