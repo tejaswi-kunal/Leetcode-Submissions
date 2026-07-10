@@ -2,19 +2,21 @@ class Solution {
 public:
     int change(int amount, vector<int>& coins) 
     {
-        vector<vector<int>>dp(coins.size(),vector<int>(amount+1,-1));
+        int n=coins.size();
 
-        return numberOfCoins(coins,amount,coins.size()-1,dp);
+        vector<vector<int>>dp(n,vector<int>(amount+1,-1));
+
+        return f(n-1,amount,coins,dp);
     }
 
-    int numberOfCoins(vector<int>&coins,int amount,int index,vector<vector<int>>&dp)
+    int f(int i,int amount,vector<int>&coins,vector<vector<int>>&dp)
     {
-        if(amount==0)
+        if(!amount)
         {
             return 1;
         }
 
-        if(index==0)
+        if(!i)
         {
             if(amount%coins[0]==0)
             {
@@ -24,22 +26,21 @@ public:
             return 0;
         }
 
-        //now if the ans for this particular subprobem has been already computed simply return it
-        if(dp[index][amount]!=-1)
+        // now we have to check if its already computed we will simply return that 
+        if(dp[i][amount]!=-1)
         {
-            return dp[index][amount];
+            return dp[i][amount];
         }
 
-        //now we have couple of choices for each index
-        int pick=0,notPick=0;
+        // we have two choices for each coin
+        int notPick=f(i-1,amount,coins,dp);
 
-        if(amount-coins[index]>=0)
+        int pick=0;
+        if(amount-coins[i]>=0)
         {
-            pick=numberOfCoins(coins,amount-coins[index],index,dp);
+            pick=f(i,amount-coins[i],coins,dp);
         }
 
-        notPick=numberOfCoins(coins,amount,index-1,dp);
-
-        return  dp[index][amount]=pick+notPick;
+        return dp[i][amount] = pick+notPick;
     }
 };
