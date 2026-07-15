@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
 | ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
