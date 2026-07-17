@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
 ## String
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
