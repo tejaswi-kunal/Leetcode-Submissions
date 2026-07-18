@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## String
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
