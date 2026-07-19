@@ -76,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
+| [0316-remove-duplicate-letters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [1143-longest-common-subsequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
