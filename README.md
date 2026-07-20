@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
