@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0198-house-robber) |
+| [0307-range-sum-query-mutable](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -215,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
