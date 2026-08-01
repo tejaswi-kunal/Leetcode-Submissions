@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -194,11 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Enumeration
 |  |
 | ------- |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -218,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Counting Sort
 |  |
 | ------- |
@@ -234,4 +240,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
