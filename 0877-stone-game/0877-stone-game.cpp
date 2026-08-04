@@ -2,39 +2,64 @@ class Solution {
 public:
     bool stoneGame(vector<int>& nums) 
     {
+        // lets find the maximum number of piles alice can earn 
         int n=nums.size();
+        vector<vector<vector<int>>>dp(n,vector<vector<int>>(n,vector<int>(2,-1)));
 
-        vector<vector<int>>dp(n,vector<int>(n,-1));
+        int ply1=solve(0,n-1,0,nums,dp);
+        int ply2=accumulate(nums.begin(),nums.end(),0)-ply1;
 
-        int score1=solve(0,n-1,dp,nums);
-        int score2=accumulate(nums.begin(),nums.end(),0)-score1;
-
-        if(score1>score2)
+        if(ply1>ply2)
         {
-            return 1;
+            return true;
         }
 
-        return 0;
+        else
+        {
+            return false;
+        }
+        
     }
 
-    int solve(int i,int j,vector<vector<int>>&dp,vector<int>&nums)
+    int solve(int i,int j,int chance,vector<int>&nums, vector<vector<vector<int>>>&dp)
     {
         if(i>j)
         {
             return 0;
         }
 
-        if(dp[i][j]!=-1)
+        // now we have to memoize the result
+        if(dp[i][j][chance]!=-1)
         {
-            return dp[i][j];
+            return dp[i][j][chance];
         }
 
-        // we have two options for player1 
-        int c1=0,c2=0;
+        // now each time we have two choices for the player 1
+        int take_i=0,take_j=0;
+        int result;
+        if(chance==0)
+        {
+            result=-1;
+        }
 
-        c1=nums[i]+min(solve(i+2,j,dp,nums),solve(i+1,j-1,dp,nums));
-        c2=nums[j]+min(solve(i+1,j-1,dp,nums),solve(i,j-2,dp,nums));
+        else
+        {
+            result=INT_MAX;
+        }
 
-        return dp[i][j] =  max(c1,c2);
+        if(chance==0)
+        {
+            take_i=nums[i]+solve(i+1,j,1,nums,dp);
+            take_j=nums[j]+solve(i,j-1,1,nums,dp);
+            result=max(take_i,take_j);
+        }
+        else
+        {
+            take_i=solve(i+1,j,0,nums,dp);
+            take_j=solve(i,j-1,0,nums,dp);
+            result=min(take_i,take_j);
+        }
+
+        return dp[i][j][chance] = result;
     }
 };
