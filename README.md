@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3310-remove-methods-from-project](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
 |  |
 | ------- |
