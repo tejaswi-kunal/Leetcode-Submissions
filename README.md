@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0307-range-sum-query-mutable](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -301,4 +305,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
