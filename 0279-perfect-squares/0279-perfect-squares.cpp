@@ -2,32 +2,22 @@ class Solution {
 public:
     int numSquares(int n) 
     {
-        vector<int>dp(n+1,-1);
+        vector<int>dp(n+1,0);
 
-        return solve(n,dp);   
-    }
-
-    int solve(int n,vector<int>&dp)
-    {
-        if(!n)
+        for(int i=1;i<=n;i++)
         {
-            return 0;
+            int j=1;
+            int mini=1e8;
+            while(j*j<=i)
+            {
+                mini=min(mini,dp[i-j*j]+1);
+                j++;
+            }
+
+            dp[i]=mini;
         }
 
-        if(dp[n]!=-1)
-        {
-            return dp[n];
-        }
-
-        // so each time we have certain number of options 
-        int i=1;
-        int mini=1e8;
-        while(i*i<=n)
-        {
-            mini=min(mini,solve(n-i*i,dp)+1);
-            i++;
-        }
-
-        return dp[n] =  mini;
+        return dp[n];
+        
     }
 };
