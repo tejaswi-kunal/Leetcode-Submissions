@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
