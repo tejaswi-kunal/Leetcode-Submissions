@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0877-stone-game) |
+| [0991-broken-calculator](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0991-broken-calculator) |
 | [1140-stone-game-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0948-bag-of-tokens](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0991-broken-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1328-break-a-palindrome) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
