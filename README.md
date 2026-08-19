@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0307-range-sum-query-mutable](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
@@ -402,4 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
