@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -318,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0078-subsets) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
