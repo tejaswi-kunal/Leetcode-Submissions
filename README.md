@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
+| [0460-lfu-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0460-lfu-cache) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0307-range-sum-query-mutable](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+| [0460-lfu-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0460-lfu-cache) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -420,8 +422,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
