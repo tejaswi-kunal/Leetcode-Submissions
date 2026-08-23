@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0064-minimum-path-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0204-count-primes) |
 | [0307-range-sum-query-mutable](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
