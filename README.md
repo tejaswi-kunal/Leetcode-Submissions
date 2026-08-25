@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4002-count-valid-sequences](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4002-count-valid-sequences) |
 ## Memoization
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [4002-count-valid-sequences](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4002-count-valid-sequences) |
 ## Matrix
 |  |
 | ------- |
