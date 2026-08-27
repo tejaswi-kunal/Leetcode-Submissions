@@ -1,26 +1,91 @@
-int bit_width(__uint128_t x) {
-    uint64_t hi = x >> 64;
-    return hi ? 128 - countl_zero(hi) : 64 - countl_zero((uint64_t)x);
-}
-
 class Solution {
 public:
-    string shortestBeautifulSubstring(string s, int k) {
-        int n = s.size(), start = n;
-        __uint128_t curr = 0, best = -1;
 
-        for (int i = 0; i < n; i++) {
-            // append bit to curr
-            curr = (curr << 1) | (s[i] & 1);
-            k -= s[i] & 1;
-            // too many ones, pop the most significant bit
-            if (k < 0)
-                k = 0, curr &= ((__uint128_t)1 << (bit_width(curr) - 1)) - 1;
-            // exactly k ones, compare masks
-            if (k == 0 && curr < best)
-                start = i - bit_width(curr) + 1, best = curr;
+    bool comp(string &s1,string &s2)
+    {
+        for(int i=0;i<s1.size();i++)
+        {
+            if(s1[i]==s2[i])
+            {
+                continue;
+            }
+
+            else if(s1[i]>s2[i])
+            {
+                return 1;
+            }
+
+            else 
+            {
+                return 0;
+            }
         }
 
-        return move(s).substr(start, bit_width(best));
+        return 0;
+    }
+    string shortestBeautifulSubstring(string s, int k) 
+    {
+        int n=s.size();
+        int first=0,second=0;
+        int len=1000;
+        int count=0;
+        string ans;
+        while(second<n)
+        {
+            while(first<second && count==k)
+            {
+                string str=s.substr(first,second-first);
+                if(len>second-first)
+                {
+                    len=second-first;
+                    ans=str;
+                }
+
+                else if(len==second-first)
+                {
+                    if(comp(ans,str))
+                    {
+                        ans=str;
+                    }
+                }
+                if(s[first]=='1')
+                {
+                    count--;
+                }
+                first++;
+            }
+
+            if(s[second]=='1')
+            {
+                count++;
+            }
+
+            second++;
+        }
+
+        while(first<second && count==k)
+        {
+            string str=s.substr(first,second-first);
+            if(len>second-first)
+            {
+                len=second-first;
+                ans=str;
+            }
+
+            else if(len==second-first)
+            {
+                if(comp(ans,str))
+                {
+                    ans=str;
+                }
+            }
+            if(s[first]=='1')
+            {
+                count--;
+            }
+            first++;
+        }
+        
+        return ans;
     }
 };
