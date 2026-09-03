@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## String
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -475,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0460-lfu-cache) |
+## Shortest Path
+|  |
+| ------- |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 <!---LeetCode Topics End-->
