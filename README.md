@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3310-remove-methods-from-project](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 | [3310-remove-methods-from-project](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -495,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Dijkstra's Algorithm
