@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2104-sum-of-subarray-ranges) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## String
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3310-remove-methods-from-project](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3310-remove-methods-from-project](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Hash Table
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Counting Sort
@@ -505,9 +510,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## 0-1 BFS
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
