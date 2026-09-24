@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0006-zigzag-conversion) |
+| [0058-length-of-last-word](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
