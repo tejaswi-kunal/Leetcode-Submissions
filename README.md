@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0204-count-primes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0198-house-robber) |
