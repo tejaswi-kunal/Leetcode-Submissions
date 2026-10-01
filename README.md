@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0907-sum-of-subarray-minimums) |
@@ -557,5 +559,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
