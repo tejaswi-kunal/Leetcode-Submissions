@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0204-count-primes) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
