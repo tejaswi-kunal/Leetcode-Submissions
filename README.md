@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3870-count-commas-in-range) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3310-remove-methods-from-project](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3310-remove-methods-from-project) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -587,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
