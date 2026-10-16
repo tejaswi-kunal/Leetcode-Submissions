@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3731-find-missing-elements](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3870-count-commas-in-range) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4026-maximum-gap-between-stations](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4026-maximum-gap-between-stations) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3552-grid-teleportation-traversal](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3552-grid-teleportation-traversal) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
