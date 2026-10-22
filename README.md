@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3552-grid-teleportation-traversal](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3552-grid-teleportation-traversal) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3731-find-missing-elements](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4026-maximum-gap-between-stations](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4026-maximum-gap-between-stations) |
 ## Sliding Window
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3552-grid-teleportation-traversal](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3552-grid-teleportation-traversal) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 ## Counting Sort
 |  |
