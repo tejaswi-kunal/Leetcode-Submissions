@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0638-shopping-offers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0638-shopping-offers) |
 | [0877-stone-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [0948-bag-of-tokens](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0948-bag-of-tokens) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0542-01-matrix) |
+| [0638-shopping-offers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0877-stone-game) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0638-shopping-offers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0638-shopping-offers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0078-subsets) |
+| [0638-shopping-offers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0638-shopping-offers) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0078-subsets) |
+| [0638-shopping-offers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0638-shopping-offers) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Primality Test
@@ -557,10 +562,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0474-ones-and-zeroes) |
+| [0638-shopping-offers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0638-shopping-offers) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0279-perfect-squares) |
+| [0638-shopping-offers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0638-shopping-offers) |
 ## Nim Game
 |  |
 | ------- |
@@ -615,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0474-ones-and-zeroes) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
