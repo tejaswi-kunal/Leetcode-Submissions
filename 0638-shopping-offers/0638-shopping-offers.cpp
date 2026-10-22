@@ -2,7 +2,6 @@ class Solution {
 public:
     map<vector<int>,int>mp;
     int shoppingOffers(vector<int>& prices, vector<vector<int>>& special, vector<int>& needs) {
-        mp.clear();
         return solve(needs,special,prices);
     }
 
