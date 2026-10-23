@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
