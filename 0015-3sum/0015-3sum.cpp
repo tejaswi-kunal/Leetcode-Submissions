@@ -4,36 +4,39 @@ public:
     {
         sort(nums.begin(),nums.end());
         vector<vector<int>>ans;
-        set<vector<int>>s;
-
+        int last_start=1e9,last_end=1e9;
         for(int i=0;i<nums.size();i++)
         {
-            int target=-nums[i];
-            int start=i+1,end=nums.size()-1;
-
-            while(start<end)
+            if(i==0 || (nums[i-1]!=nums[i]))
             {
-                if(nums[start]+nums[end]==target)
-                {
-                    s.insert({nums[i],nums[start],nums[end]});
-                    start++,end--;
-                }
+                int target=-nums[i];
+                int start=i+1,end=nums.size()-1;
+                last_start=1e9,last_end=1e9;
 
-                else if(nums[start]+nums[end]>target)
+                while(start<end)
                 {
-                    end--;
-                }
+                    if(nums[start]+nums[end]==target)
+                    {
+                        if(last_start!=nums[start] && last_end!=nums[end])
+                        {
+                            ans.push_back({nums[i],nums[start],nums[end]});
+                            last_start=nums[start],last_end=nums[end];
+                        }
 
-                else
-                {
-                    start++;
+                        start++,end--;
+                    }
+
+                    else if(nums[start]+nums[end]>target)
+                    {
+                        end--;
+                    }
+
+                    else
+                    {
+                        start++;
+                    }
                 }
             }
-        }
-
-        for(auto &it : s)
-        {
-            ans.push_back(it);
         }
 
         return ans;
