@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
