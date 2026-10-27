@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1563-stone-game-v) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1872-stone-game-viii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
