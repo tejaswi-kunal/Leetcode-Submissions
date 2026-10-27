@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2594-minimum-time-to-repair-cars](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2594-minimum-time-to-repair-cars) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2594-minimum-time-to-repair-cars](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2594-minimum-time-to-repair-cars) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
