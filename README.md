@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2560-house-robber-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2680-maximum-or](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2680-maximum-or) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2560-house-robber-iv](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2680-maximum-or](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2680-maximum-or) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2256-minimum-average-difference](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2256-minimum-average-difference) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2680-maximum-or](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2680-maximum-or) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0638-shopping-offers) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [2680-maximum-or](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2680-maximum-or) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
