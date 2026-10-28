@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1872-stone-game-viii) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3356-zero-array-transformation-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3356-zero-array-transformation-ii) |
 | [3903-smallest-stable-index-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3903-smallest-stable-index-i) |
