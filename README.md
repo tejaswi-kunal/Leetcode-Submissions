@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1328-break-a-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1927-sum-game) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1872-stone-game-viii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
