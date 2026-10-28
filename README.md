@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2560-house-robber-iv](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1872-stone-game-viii) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
