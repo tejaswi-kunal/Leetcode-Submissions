@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1260-shift-2d-grid](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
