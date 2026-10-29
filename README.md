@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2560-house-robber-iv](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1328-break-a-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1927-sum-game) |
+| [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
