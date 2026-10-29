@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2680-maximum-or](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2680-maximum-or) |
+| [2845-count-of-interesting-subarrays](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2845-count-of-interesting-subarrays) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2680-maximum-or](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2680-maximum-or) |
+| [2845-count-of-interesting-subarrays](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2845-count-of-interesting-subarrays) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2845-count-of-interesting-subarrays](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2845-count-of-interesting-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
