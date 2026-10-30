@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1043-partition-array-for-maximum-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1124-longest-well-performing-interval](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1124-longest-well-performing-interval) |
 | [1140-stone-game-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1124-longest-well-performing-interval](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1124-longest-well-performing-interval) |
 | [1140-stone-game-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0460-lfu-cache) |
+| [1124-longest-well-performing-interval](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1124-longest-well-performing-interval) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1106-parsing-a-boolean-expression) |
+| [1124-longest-well-performing-interval](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1124-longest-well-performing-interval) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1124-longest-well-performing-interval](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1124-longest-well-performing-interval) |
 | [2104-sum-of-subarray-ranges](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Enumeration
