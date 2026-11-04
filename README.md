@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1946-largest-number-after-mutating-substring](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1946-largest-number-after-mutating-substring) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1328-break-a-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1927-sum-game) |
+| [1946-largest-number-after-mutating-substring](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1946-largest-number-after-mutating-substring) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1927-sum-game) |
+| [1946-largest-number-after-mutating-substring](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1946-largest-number-after-mutating-substring) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2517-maximum-tastiness-of-candy-basket) |
