@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
+| [0556-next-greater-element-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0877-stone-game) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0474-ones-and-zeroes) |
+| [0556-next-greater-element-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0556-next-greater-element-iii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0556-next-greater-element-iii) |
 | [0948-bag-of-tokens](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0948-bag-of-tokens) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
