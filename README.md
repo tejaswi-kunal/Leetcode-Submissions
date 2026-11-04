@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [0991-broken-calculator](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0991-broken-calculator) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0402-remove-k-digits) |
+| [0670-maximum-swap](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0948-bag-of-tokens) |
