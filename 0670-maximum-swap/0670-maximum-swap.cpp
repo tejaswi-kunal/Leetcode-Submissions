@@ -3,44 +3,29 @@ public:
     int maximumSwap(int num) 
     {
         string s = to_string(num);
-        vector<int>nums(s.size());
-        int n=nums.size();
-        
-        for(int i=0;i<n;i++)
+
+        // now we have to find the last occurances of each digit 
+        vector<int>last_occ(10,-1);
+
+        for(int i=0;i<s.size();i++)
         {
-            nums[i]=s[i]-'0';
+            last_occ[s[i]-'0']=i;
         }
 
-        // now we have to find the largest number to the left of a number 
-        pair<int,int> maxi={0,-1};
-        vector<pair<int,int>>suff(n);
-        for(int i=n-1;i>=0;i--)
+        // now we have to swap the left most number with a digit in right to get a larger number 
+        for(int i=0;i<s.size();i++)
         {
-            if(nums[i]>maxi.first)
+            for(int d=9;d>s[i]-'0';d--)
             {
-                maxi.first=nums[i];
-                maxi.second=i;
-            }
-            suff[i]=maxi;
-        }
-
-        int ans=0;
-        int k=1;
-        for(int i=0;i<n;i++)
-        {
-            ans*=10;
-            if(nums[i]<suff[i].first && k)
-            {
-                k=0;
-                ans+=suff[i].first;
-                nums[suff[i].second]=nums[i];
-            }
-            else
-            {
-                ans+=nums[i];
+                if(last_occ[d]!=-1 && last_occ[d]>i)
+                {
+                    swap(s[i],s[last_occ[d]]);
+                    int ans=stoi(s);
+                    return ans;
+                }
             }
         }
-
+        int ans=stoi(s);
         return ans;
         
     }
