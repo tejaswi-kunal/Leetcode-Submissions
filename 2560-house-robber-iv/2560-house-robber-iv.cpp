@@ -1,39 +1,36 @@
 class Solution {
 public:
-    bool check(int mid,vector<int>&nums,int k)
+    bool check(int ans,vector<int>&nums,int k)
     {
-        int prev=-2;
+        // now we have to check if we can select k elements 
+        int i=0;
         int count=0;
-
-        for(int i=0;i<nums.size();i++)
+        while(i<nums.size())
         {
-            if(nums[i]<=mid && i-1!=prev)
+            if(nums[i]<=ans)
             {
                 count++;
-                prev=i;
+                i++;
             }
+            i++;
         }
 
         if(count>=k)
         {
             return 1;
         }
-
         return 0;
-        
     }
 
     int minCapability(vector<int>& nums, int k) 
     {
-        int start=*min_element(nums.begin(),nums.end());
-        int end=*max_element(nums.begin(),nums.end());
-        int ans=end;
-
+        // first we have to find the max capiblity using the bs 
+        int start=0,end=*max_element(nums.begin(),nums.end());
+        int ans;
         while(start<=end)
         {
             int mid=start+(end-start)/2;
 
-            // now we have to check if we are able to steal atleast k hoses with max allowed capablity as k
             if(check(mid,nums,k))
             {
                 ans=mid;
