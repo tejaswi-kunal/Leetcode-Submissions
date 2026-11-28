@@ -3,24 +3,23 @@ public:
     using ll=long long;
     long long beautifulSubarrays(vector<int>& nums) 
     {
-        ll count=0;
+        ll count = 0;
         unordered_map<int,ll>mp;
 
-        int pref=0;
         mp[0]=1;
-
+        int R=0;
         for(int i=0;i<nums.size();i++)
         {
-            pref^=nums[i];
+            R^=nums[i];
 
-            if(mp.find(pref)!=mp.end())
+            if(mp.find(R)!=mp.end())
             {
-                count=count+mp[pref];
+                count+=mp[R];
             }
-            mp[pref]++;
+            mp[R]++;
         }
 
         return count;
-
+        
     }
 };
