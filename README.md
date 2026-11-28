@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1328-break-a-palindrome) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1915-number-of-wonderful-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1915-number-of-wonderful-substrings) |
 | [1927-sum-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [1946-largest-number-after-mutating-substring](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1946-largest-number-after-mutating-substring) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1872-stone-game-viii) |
+| [1915-number-of-wonderful-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1915-number-of-wonderful-substrings) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2256-minimum-average-difference](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2256-minimum-average-difference) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1915-number-of-wonderful-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1915-number-of-wonderful-substrings) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2845-count-of-interesting-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1915-number-of-wonderful-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1915-number-of-wonderful-substrings) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2680-maximum-or](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2680-maximum-or) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
