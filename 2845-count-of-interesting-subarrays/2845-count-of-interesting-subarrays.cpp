@@ -4,9 +4,10 @@ public:
     long long countInterestingSubarrays(vector<int>& nums, int m, int k) 
     {
         ll count=0;
+
+        // it will keep the count of number of elements 0..R for which nums[i]%m==k
         ll pref=0;
         unordered_map<int,ll>mp;
-
         mp[0]=1;
 
         for(int i=0;i<nums.size();i++)
@@ -16,18 +17,17 @@ public:
                 pref++;
             }
 
-            pref%=m;
-
-            int val=((pref-k)%m+m)%m;
-
-            if(mp.count(val))
+            int x=pref%m;
+            int toFind=((x-k)%m+m)%m;
+            if(mp.find(toFind)!=mp.end())
             {
-                count+=mp[val];
+                count+=mp[toFind];
             }
 
-            mp[pref]++;
+            mp[x]++;
         }
-        
+
         return count;
+
     }
 };
