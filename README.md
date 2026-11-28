@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1328-break-a-palindrome](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1328-break-a-palindrome) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1542-find-longest-awesome-substring](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1542-find-longest-awesome-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1915-number-of-wonderful-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1915-number-of-wonderful-substrings) |
 | [1927-sum-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1927-sum-game) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1124-longest-well-performing-interval) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1542-find-longest-awesome-substring](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1542-find-longest-awesome-substring) |
 | [1590-make-sum-divisible-by-p](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1915-number-of-wonderful-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1915-number-of-wonderful-substrings) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1542-find-longest-awesome-substring](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1542-find-longest-awesome-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1915-number-of-wonderful-substrings) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2680-maximum-or](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2680-maximum-or) |
