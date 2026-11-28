@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1328-break-a-palindrome](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1328-break-a-palindrome) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [1946-largest-number-after-mutating-substring](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1946-largest-number-after-mutating-substring) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1124-longest-well-performing-interval](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1124-longest-well-performing-interval) |
 | [1140-stone-game-ii](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1590-make-sum-divisible-by-p](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0460-lfu-cache) |
 | [1124-longest-well-performing-interval](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1124-longest-well-performing-interval) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0638-shopping-offers](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/0638-shopping-offers) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2680-maximum-or](https://github.com/tejaswi-kunal/Leetcode-Submissions/tree/master/2680-maximum-or) |
